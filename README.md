@@ -31,7 +31,7 @@ This is a dynamic and interactive **IPL (Indian Premier League) Dashboard** deve
 
 ## 📸 Screenshot
 
-![IPL Excel Dashboard Screenshot](images/ipl_dashboard_screenshot.png)
+![IPL Excel Dashboard Screenshot](https://github.com/UditSinghai/DA_Dashboard_Using_MSExcel/blob/main/Screenshot%202025-05-05%20224323.png)
 
 > 📌 *Make sure to place your screenshot image inside an `images` folder in the repo.*
 
